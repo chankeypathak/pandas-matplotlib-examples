@@ -40,4 +40,3 @@ df = pd.DataFrame(data=list(result), columns=result.keys())
 conn.close()
 
 print('Done')
-
