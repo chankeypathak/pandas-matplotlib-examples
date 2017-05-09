@@ -9,3 +9,5 @@ Some examples to learn Pandas and Matplotlib
 - **Lesson 3:** Creating functions - Reading from EXCEL - Exporting to EXCEL - Outliers - Lambda functions - Slice and dice data
 
 - **Lesson 4:** Adding/deleting columns - Index operations
+
+- **Lesson 5:** Stack/Unstack/Transpose functions
