@@ -21,3 +21,5 @@ Some examples to learn Pandas and Matplotlib
 - **Lesson 9:** Export to CSV/EXCEL/TXT
 
 - **Lesson 10:** Converting between different kinds of formats
+
+- **Lesson 11:** Combining data from various sources
