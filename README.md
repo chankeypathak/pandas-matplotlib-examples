@@ -17,3 +17,5 @@ Some examples to learn Pandas and Matplotlib
 - **Lesson 7:** Ways to calculate outliers
 
 - **Lesson 8:** Read from Microsoft SQL databases
+
+- **Lesson 9:** Export to CSV/EXCEL/TXT
