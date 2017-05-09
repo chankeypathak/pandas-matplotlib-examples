@@ -11,3 +11,5 @@ Some examples to learn Pandas and Matplotlib
 - **Lesson 4:** Adding/deleting columns - Index operations
 
 - **Lesson 5:** Stack/Unstack/Transpose functions
+
+- **Lesson 6:** GroupBy function
