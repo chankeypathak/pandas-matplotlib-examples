@@ -19,3 +19,5 @@ Some examples to learn Pandas and Matplotlib
 - **Lesson 8:** Read from Microsoft SQL databases
 
 - **Lesson 9:** Export to CSV/EXCEL/TXT
+
+- **Lesson 10:** Converting between different kinds of formats
