@@ -13,3 +13,5 @@ Some examples to learn Pandas and Matplotlib
 - **Lesson 5:** Stack/Unstack/Transpose functions
 
 - **Lesson 6:** GroupBy function
+
+- **Lesson 7:** Ways to calculate outliers
